@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { Routes, Route } from "react-router-dom";
 import ProjectsPage from "./pages/ProjectsPage";
-import NavBar from "./components/NavBAr";
+import NavBar from "./components/NavBar.jsx";
 import HomePage from "./pages/HomePage";
 import ProjectDetails from "./pages/ProjectDetails";
 import "./App.css";
